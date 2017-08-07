@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/pranayaa/.android/build-cache/f00ca6ac8b7f28619c6a7eb4d2399f4d49776594/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab8/app/build/intermediates/pre-dexed/debug/classes_556b501c43d2fc360d58fb8357ac11e21baef168.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pranayaa/.android/build-cache/fadf560d05483e8f937aee4bb361170b3c2c8994/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f71535b79ededfb18f15161fbea5f535d9ffcbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pranayaa/.android/build-cache/f00ca6ac8b7f28619c6a7eb4d2399f4d49776594/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_556b501c43d2fc360d58fb8357ac11e21baef168/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pranayaa/.android/build-cache/fadf560d05483e8f937aee4bb361170b3c2c8994/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab8/app/build/intermediates/pre-dexed/debug/classes_8f71535b79ededfb18f15161fbea5f535d9ffcbb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pranayaa/.android/build-cache/8fb0133ea145301bd025f44546dd467c4b57422d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4acacbab67243d9eb026ea759aefd401d070f3e">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db95fa2483167b0ce402ab97df290a8e73cd96d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pranayaa/.android/build-cache/8fb0133ea145301bd025f44546dd467c4b57422d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4acacbab67243d9eb026ea759aefd401d070f3e">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab8/app/build/intermediates/pre-dexed/debug/classes_db95fa2483167b0ce402ab97df290a8e73cd96d9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pranayaa/.android/build-cache/20019afe6653d903f20c831d14c2c45f9834f587/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e2e05ddbfe4b04f206d672f280e1d8e70ad67dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pranayaa/.android/build-cache/4889ce83d17feb7170143a6271bfdef882a7492e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="90095b555b72205db6f9b93aca3cb9978d1e3344">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab8/app/build/intermediates/pre-dexed/debug/classes_2477202ad05098a70bd5ecf5c86cd6503c1b7a9b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pranayaa/.android/build-cache/f32b7206d925411b8d53e8cf86e5e4dbfc010bd0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ec1f195979cc7f1ec94779fa16f1b10aac8aceca">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_446482b81125a0554c173e1df8699d3302dd11d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pranayaa/.android/build-cache/915684491a6b3312e7dbc864c0d365c7fa349b0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e00b71dcf2fbecaf59b0d487d11839522dd7863d">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab8/app/build/intermediates/pre-dexed/debug/classes_be11a66b918517a942b2470fd4f4d1fbe8d95d36.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pranayaa/.android/build-cache/915684491a6b3312e7dbc864c0d365c7fa349b0a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e00b71dcf2fbecaf59b0d487d11839522dd7863d">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be11a66b918517a942b2470fd4f4d1fbe8d95d36/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pranayaa/.android/build-cache/f32b7206d925411b8d53e8cf86e5e4dbfc010bd0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ec1f195979cc7f1ec94779fa16f1b10aac8aceca">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab8/app/build/intermediates/pre-dexed/debug/classes_446482b81125a0554c173e1df8699d3302dd11d2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pranayaa/.android/build-cache/4889ce83d17feb7170143a6271bfdef882a7492e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="90095b555b72205db6f9b93aca3cb9978d1e3344">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2477202ad05098a70bd5ecf5c86cd6503c1b7a9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pranayaa/.android/build-cache/a09ed15bfdbf0c5cb2d5c28c4e3c4afc6f4803d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="32054268e6c9fdff0c9c5deafafd0bd105120fb6">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab8/app/build/intermediates/pre-dexed/debug/classes_dcfb127803111553b6d06e3cf3bba31e586e09dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pranayaa/.android/build-cache/40fe34094f28ed6f5c287d74d9447d0bbe7666ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8a572a0bd9ea324b099b1761670237bc1be8ba7b">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab8/app/build/intermediates/pre-dexed/debug/classes_efa63dec5d93f0e01bb34cecf670a19b9687d0cd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab7/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1aeb1f8ceb1dd7b3426e497bb92629be30443c23">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab7/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e4101709e31dc488538f88052cd2e74fe7515747/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pranayaa/.android/build-cache/40fe34094f28ed6f5c287d74d9447d0bbe7666ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8a572a0bd9ea324b099b1761670237bc1be8ba7b">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efa63dec5d93f0e01bb34cecf670a19b9687d0cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pranayaa/.android/build-cache/a09ed15bfdbf0c5cb2d5c28c4e3c4afc6f4803d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="32054268e6c9fdff0c9c5deafafd0bd105120fb6">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dcfb127803111553b6d06e3cf3bba31e586e09dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab8/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bc8a794bd3e7a44c89c4eb73335b8c1284145719">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab8/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_305ff35c917031fe65c2dac6f9c3d214572e3a0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pranayaa/.android/build-cache/a3dd70c7d3fba6ded7c89bcf7135b7b7e1790b4a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b4fa53b1dbc43a65e9cbcbfe25f4abc47264e78c">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab8/app/build/intermediates/pre-dexed/debug/classes_3bfa2616df7cec54f0ad8ce37bf8c244aa2211c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pranayaa/.android/build-cache/20019afe6653d903f20c831d14c2c45f9834f587/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab8/app/build/intermediates/pre-dexed/debug/classes_7e2e05ddbfe4b04f206d672f280e1d8e70ad67dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pranayaa/.android/build-cache/7e1b2877ab2754c46ff6a858d3636be156ebe306/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4ba7399a1a4f5c998b5ce4f6bf33a2e8347820c">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab8/app/build/intermediates/pre-dexed/debug/classes_3e7c563801f00b030543f70bb6750752ab9040e0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pranayaa/.android/build-cache/a3dd70c7d3fba6ded7c89bcf7135b7b7e1790b4a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b4fa53b1dbc43a65e9cbcbfe25f4abc47264e78c">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3bfa2616df7cec54f0ad8ce37bf8c244aa2211c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pranayaa/.android/build-cache/7e1b2877ab2754c46ff6a858d3636be156ebe306/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4ba7399a1a4f5c998b5ce4f6bf33a2e8347820c">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e7c563801f00b030543f70bb6750752ab9040e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pranayaa/.android/build-cache/04fefb7f4b161c035bb2c8fdd1875f7dde42f5c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="54511008bf7d1aabd871d8d3a26781b3f2bd9617">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab8/app/build/intermediates/pre-dexed/debug/classes_7ac3970717810250c87fa5627a769668c3bbcbcd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab8/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab8/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1da106572cc0fc35b49ca8cd75facbd375264a73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pranayaa/.android/build-cache/04fefb7f4b161c035bb2c8fdd1875f7dde42f5c0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="54511008bf7d1aabd871d8d3a26781b3f2bd9617">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab7/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ac3970717810250c87fa5627a769668c3bbcbcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab7/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/pranayaa/Desktop/Andriod-Projects/HW2017MobileDevLab7/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_86b7c51f4c0d7735168991e66b346eee06498ea0/classes.dex" />
+    </item>
+
+</items>
